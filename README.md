@@ -2,6 +2,8 @@
 
 This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
+# BLOG: https://sidd1698.blogspot.com/
+
 ## Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
 
 ### 1. Installations
